@@ -15,7 +15,10 @@
 <tr>
 <td width="45%" align="center">
 
-<img src="https://github.com/adii4040/adii4040/blob/main/assets/pfp.jpg" width="280" style="border-radius: 50%; box-shadow: 0 0 30px #7f00ff, 0 0 60px #00d4ff; margin-top: 15px;" alt="Aditya Kumar Singh" />
+<img src="https://github.com/adii4040/adii4040/blob/main/assets/pfp.jpg" width="280" 
+style="border-radius: 15px; box-shadow: 0 0 20px rgba(127, 0, 255, 0.6), 0 0 40px rgba(0, 212, 255, 0.3); margin-top: 10px;" 
+alt="Aditya Kumar Singh" />
+
 
 </td>
 <td width="55%" align="left" style="padding: 10px; line-height: 1.6;">
@@ -82,24 +85,17 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adii4040&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
-  <img src="https://streak-stats.demolab.com?user=adii4040&theme=tokyonight&hide_border=false" height="165" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adii4040&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adii4040&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adii4040&layout=compact&theme=tokyonight&hide_border=false" height="160" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adii4040&layout=compact&theme=radical" />
 </p>
 
----
-
-### 🏆 Achievements & Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adii4040&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5" />
-</p>
 
 ---
 
