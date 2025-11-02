@@ -2,22 +2,15 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # Every 6 hours
+    - cron: '*/60 * * * *' # updates every hour
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write          # 👈 allows editing README
-  pull-requests: write     # optional, but safe
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update activity in README
-        uses: jamesgeorge007/github-activity-readme@v0.3.0
+      - uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: adii4040   # 👈 your GitHub username here
+          COMMIT_MSG: "Updated README with recent GitHub activity"
