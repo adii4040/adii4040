@@ -97,6 +97,20 @@ alt="Aditya Kumar Singh" />
 </p>
 
 
+
+---
+
+<h3 align="center">🕒 Recent GitHub Activity</h3>
+
+<p align="center">
+  <i>My latest contributions across GitHub ↓</i>
+</p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
 ---
 
 ### ⚡ Fun Facts  
